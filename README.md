@@ -2,7 +2,10 @@
 # My Large Language Models (LLM) Challenge Repository
 
 Welcome to my personal repository for the **Large Language Models (LLM) Challenge**! This space is dedicated to my journey through the daily assignments, code labs, and research materials, all centered around mastering LLM concepts and techniques. 
-
+## Prerequisites
+ - Phone verified kaggle account
+ - Google API KEY from AI Studio \href{AI Studio}{https://aistudio.google.com/app/apikey}
+ - 
 ## What's Inside
 - **Daily Assignments**: Notes and insights from each day’s podcast episodes, whitepapers, and hands-on code labs.
 - **Code Labs on Kaggle**: My code and solutions for each lab, with explanations and reflections on LLM techniques.
